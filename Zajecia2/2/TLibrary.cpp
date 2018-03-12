@@ -12,7 +12,7 @@
 
 #include "TLibrary.h"
 
-TLibrary::TLibrary(string libName) {
+TLibrary::TLibrary(const string& libName) {
     libraryName=libName;
     cout<<libName<<endl;
     book= new TBook;

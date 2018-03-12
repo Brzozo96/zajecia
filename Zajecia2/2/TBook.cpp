@@ -18,7 +18,7 @@ TBook::TBook() {
 TBook::~TBook() {
 }
 
-void TBook::setTitle(string title) {
+void TBook::setTitle(const string& title) {
     bookTitle=title;
 }
 
@@ -26,7 +26,7 @@ string TBook::getTitle() {
     return bookTitle;
 }
 
-void TBook::setShelfMark(string mark) {
+void TBook::setShelfMark(const string& mark) {
     shelfMark=mark;
 }
 
