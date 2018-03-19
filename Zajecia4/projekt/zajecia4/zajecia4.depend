@@ -1,0 +1,32 @@
+# depslib dependency file v1.0
+1521476482 source:c:\users\student.desktop-icom-tr\desktop\zajecia4\projekt\zajecia4\src\newton.cpp
+	"Newton.h"
+
+1521476570 c:\users\student.desktop-icom-tr\desktop\zajecia4\projekt\zajecia4\include\newton.h
+	"Silnia.h"
+
+1521476605 c:\users\student.desktop-icom-tr\desktop\zajecia4\projekt\zajecia4\include\silnia.h
+
+1521476425 source:c:\users\student.desktop-icom-tr\desktop\zajecia4\projekt\zajecia4\src\potega.cpp
+	"Potega.h"
+
+1521476577 c:\users\student.desktop-icom-tr\desktop\zajecia4\projekt\zajecia4\include\potega.h
+
+1521476518 source:c:\users\student.desktop-icom-tr\desktop\zajecia4\projekt\zajecia4\src\silnia.cpp
+	"Silnia.h"
+
+1521477147 source:c:\users\student.desktop-icom-tr\desktop\zajecia4\projekt\zajecia4\src\bernoulli.cpp
+	"Bernoulli.h"
+	<iostream>
+
+1521476993 c:\users\student.desktop-icom-tr\desktop\zajecia4\projekt\zajecia4\include\bernoulli.h
+	"Newton.h"
+	"Potega.h"
+
+1521477410 source:c:\users\student.desktop-icom-tr\desktop\zajecia4\projekt\zajecia4\main.cpp
+	<iostream>
+	<Bernoulli.h>
+	<Newton.h>
+	<Silnia.h>
+	<Potega.h>
+
